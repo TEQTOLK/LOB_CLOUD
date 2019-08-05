@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOB", "POS\LOB.csproj", "{7E5B5DAC-5D87-4701-B6DA-C8B88B3E6F7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOB", "LOB.csproj", "{7E5B5DAC-5D87-4701-B6DA-C8B88B3E6F7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7DABFE9D-9973-4CFC-AE6A-8C17B65B7C6F}
+		SolutionGuid = {56398307-16C2-4DBC-BAB2-9B80DA6CC4C3}
 	EndGlobalSection
 EndGlobal
